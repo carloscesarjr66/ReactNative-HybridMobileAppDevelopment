@@ -6,10 +6,8 @@ import {StyleSheet,
 export default class Filter extends React.PureComponent { 
  render() {
    return (
-       <TouchableOpacity style={styles.filter}>
-    
+       <TouchableOpacity style={styles.filter}> 
      <Text style={styles.filterText}> Imóvel a Venda</Text>
-   
        </TouchableOpacity>
            
    );
