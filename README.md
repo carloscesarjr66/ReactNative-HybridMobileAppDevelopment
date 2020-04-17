@@ -7,11 +7,11 @@ Beatriz Mendonça de Oliveira - RM83214<br> Bruno Almeida - RM82970 <br> Carlos 
 
 -----------------------  
 
-<b>Instructions for open the Project:</b>  
-- Open Cmder. 
+<b>Instructions for openong the Project:</b>  
+- Open Cmd. 
 - Change the Directory to the Project folder. 
-- Type: ' npm install ' and ' npm -g install react-native-cli '. 
+- Type: ' npm install ' and ' npm install -g expo-cli '. 
 - Open the project in VSCode. 
 - Open the Android emulator. 
-- In Cmder again, type: ' react-native run-android '. 
+- In Cmd type: ' npm start '. 
 - Be Happy!
